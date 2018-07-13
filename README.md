@@ -50,6 +50,7 @@ or
 http://localhost/php.info
 ```
 
+
 # Acknowledgments
 
 Code adapted from http://justintadlock.com/web-design/counter
